@@ -1,0 +1,11 @@
+img {
+position: absolute;
+top: 480px;
+left: 570px;
+padding: 20px;
+}
+
+.Button {
+    background-color: #ff703f !important;
+    position: absolute;
+}
