@@ -3,3 +3,9 @@
   justify-content: center;
   align-items: center;
 }
+
+.TextArea {
+  
+  width: 80% !important;
+  margin: 50px 150px !important;
+}
